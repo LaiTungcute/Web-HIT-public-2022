@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: rgba(230, 38, 38, 0.767) !important;
+}
+
+body {
+    /* height: 720px; */
+    font-size: 20px;
+}
+
+html {
+    font-size: 28px;
+}
+
+#cai1 {
+    color: rgba(222, 30, 177, 0.767);
+}
+
+/* #cai2 {
+    color: rgba(67, 230, 38, 0.767);
+} */
+
+.cai2 {
+    font-size: 15px;
+}
+
+.cai1 {
+    /* font-size: 10px; */
+    width: 1em;
+    height: 1em;
+    background-color: orangered;
+}
+
+/*
+    Các đơn vị
+    * px
+    * %
+    * em
+    * rem
+*/
